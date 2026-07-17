@@ -6,7 +6,7 @@ A comprehensive **Streamlit-based Uber Ride Analytics Dashboard** that transform
 
 🔗 **Demo:** https://uberpy-r57uokt8jbdwkmmzvsidst.streamlit.app/
 
-> Replace the above URL with your deployed Streamlit application link.
+
 
 ---
 
