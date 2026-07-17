@@ -246,7 +246,7 @@ if selected == "Ride Analytics":
 
     fig3 = px.box(completed,x="Vehicle Type",y="Customer Rating",color="Vehicle Type")
     fig3.update_layout(showlegend=False,height=420)
-    st.plotly_chart(fig3,user_container_width=True)
+    st.plotly_chart(fig3,use_container_width=True)
 
 
     # SANKEY DIAGRAM
