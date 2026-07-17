@@ -10,7 +10,7 @@ st.set_page_config(page_title="Uber Analytics",layout="wide")
 
 @st.cache_data
 def load_data():
-     df = pd.read_csv("Uber.csv")
+     df = pd.read_csv("uber.csv")
      return df
 df = load_data()
 
